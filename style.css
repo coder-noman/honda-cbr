@@ -1,0 +1,96 @@
+/* google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* hero section */
+#hero {
+    background-color: #264653;
+    color: white;
+    height: auto;
+}
+
+#hero h1 {
+    font-weight: 600;
+    font-size: 47px;
+}
+
+#hero p {
+    font-size: 16px;
+}
+
+.modal-text-color {
+    color: black;
+}
+
+#hero .modal-btn-color {
+    background-color: #E76F51;
+    color: white;
+}
+
+/* fetured section */
+
+#fetured h1 {
+    font-weight: 600;
+    font-size: 48px;
+}
+
+#fetured p {
+    font-size: 16px;
+    color: #E76F51;
+    line-height: 2px;
+}
+
+.img-color {
+    filter: grayscale(1);
+}
+
+/* Latest News */
+
+#latest-news h1 {
+    font-weight: 600;
+    font-size: 48px;
+}
+
+#latest-news h5 {
+    font-weight: 600;
+    font-size: 20px;
+}
+
+#latest-news p {
+    font-size: 16px;
+}
+
+#latest-news .latest-news-btn {
+    background-color: #E76F51;
+    color: white;
+}
+
+/* happy-client */
+#happy-client h1 {
+    font-weight: 600;
+    font-size: 48px;
+}
+
+#happy-client i {
+    color: #E76F51;
+}
+
+/* FAQ section */
+#faq h1 {
+    font-weight: 600;
+    font-size: 48px;
+}
+
+/* subscribe */
+#subscribe h1 {
+    font-weight: 600;
+    font-size: 38px;
+}
+
+#subscribe button {
+    background-color: #E76F51;
+    color: white;
+}
